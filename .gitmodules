@@ -1,3 +1,6 @@
 [submodule "dynamicTimeWarping"]
 	path = dynamicTimeWarping
 	url = https://github.com/lazyPeach/dynamicTimeWarping.git
+[submodule "HandGestureRecognition"]
+	path = HandGestureRecognition
+	url = https://github.com/lazyPeach/HandGestureRecognition.git
